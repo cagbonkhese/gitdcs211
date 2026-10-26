@@ -9,7 +9,7 @@ def subtract(a, b):
 
 
 def calculate_fee(amount):
-    return amount + 20
+    return amount + 15
 
 
 def main():
